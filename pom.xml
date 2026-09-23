@@ -43,8 +43,8 @@
 
     <properties>
         <!-- The versions for BOMs, Dependencies and Plugins -->
-        <version.server.bom>8.2.0.Beta-redhat-00016</version.server.bom>
-        <version.eap.maven.plugin>3.0.0.Beta-redhat-00021</version.eap.maven.plugin>
+        <version.server.bom>8.2.0.Beta-redhat-00046</version.server.bom>
+        <version.eap.maven.plugin>3.0.0.Beta-redhat-00058</version.eap.maven.plugin>
     </properties>
 
     <dependencyManagement>
